@@ -1,0 +1,2045 @@
+{
+  "country": "Burundi",
+  "provinces": [
+    {
+      "name": "BUHUMUZA",
+      "capital": "Cankuzo",
+      "communes": [
+        {
+          "name": "Butaganzwa",
+          "zones": [
+            {
+              "name": "Bisinde",
+              "collines_quarters": ["Bisinde", "Bugarama", "Karambi", "Kazimya", "Nyabigugo", "Rutimbura", "Rutonganyikwa"]
+            },
+            {
+              "name": "Biyorwa",
+              "collines_quarters": ["Biyorwa", "Burenza", "Masazi", "Mihama", "Mpame", "Nyamugari", "Nyarubabi", "Rugata", "Taba"]
+            },
+            {
+              "name": "Mugege",
+              "collines_quarters": ["Bigera", "Caragata", "Gakonko", "Kivumu", "Mpungwe", "Mugege", "Muhene", "Musenga", "Nyangurube", "Nyankende", "Rubambagire"]
+            },
+            {
+              "name": "Muriza",
+              "collines_quarters": ["Bartye", "Gasasa", "Gikwiye", "Gishubi", "Kanyinya", "Kirambi", "Kiyabu", "Muriza", "Nyaburondwe", "Nyamiyaga", "Nyarurambi"]
+            },
+            {
+              "name": "Rugongo",
+              "collines_quarters": ["Kirangara", "Kivoga", "Kizigama", "Maramvya", "Nyagashubi", "Nyange", "Rugongo"]
+            }
+          ]
+        },
+        {
+          "name": "Butihinda",
+          "zones": [
+            {
+              "name": "Butarugera",
+              "collines_quarters": ["Buhorana", "Kavumu", "Kinyuku", "Kobero", "Ntaruka", "Rabiro", "Tangara", "Wingoma"]
+            },
+            {
+              "name": "Butihinda",
+              "collines_quarters": ["Bucamihigo", "Butihinda", "Maramvya", "Munyinya", "Ngara", "Rukira", "Rushombo"]
+            },
+            {
+              "name": "Burambira",
+              "collines_quarters": ["Burambira", "Burenza", "Gikingo", "Gisabazuba", "Migwa", "Nyarushanga"]
+            },
+            {
+              "name": "Buvumbi",
+              "collines_quarters": ["Buvumbi", "Gahahe", "Gitega", "Masaka", "Nyamihondi", "Zaga"]
+            },
+            {
+              "name": "Gashoho",
+              "collines_quarters": ["Bwisha", "Cihonda", "Gashoho", "Gishambusha", "Gitwa", "Kagari", "Kinyami", "Muruta", "Muyange", "Nkohwa"]
+            },
+            {
+              "name": "Gisanze",
+              "collines_quarters": ["Bonero", "Busasa", "Gisebeyi", "Muzingi", "Rugerero"]
+            },
+            {
+              "name": "Giteranyi",
+              "collines_quarters": ["Bisiga", "Gasenyi", "Giteranyi", "Karugunda", "Nonwe", "Rugese", "Rukungere", "Rumandari", "Shoza"]
+            },
+            {
+              "name": "Kamaramagambo",
+              "collines_quarters": ["Cagizo", "Gatwenzi", "Kamaramagambo", "Kibande", "Kinonora", "Maruri", "Mugongo", "Murehe", "Rwamfu"]
+            }
+          ]
+        },
+        {
+          "name": "Cankuzo",
+          "zones": [
+            {
+              "name": "Cankuzo",
+              "collines_quarters": ["Cankuzo", "Gatungurwe", "Kabeza", "Kabuga", "Kavumu", "Mugenda", "Mugongo", "Mugozi", "Muhweza", "Musenyi", "Muterero", "Muyaga", "Nyabisindu", "Nyakivumu", "Nyamusenga"]
+            },
+            {
+              "name": "Gitanga",
+              "collines_quarters": ["Gitanga", "Kibungo", "Kigaga", "Mashiga", "Nyamatongo", "Rujungu", "Saswe", "Shinge"]
+            },
+            {
+              "name": "Kigamba",
+              "collines_quarters": ["Gatunguru", "Gisenga", "Humure", "Kazibaziba", "Kigamba", "Kivumu", "Nyarurambi", "Rusagara", "Rwamvura"]
+            },
+            {
+              "name": "Minyare",
+              "collines_quarters": ["Karago", "Murehe", "Nyakerera", "Nyarutiti", "Rutoke"]
+            }
+          ]
+        },
+        {
+          "name": "Gisagara",
+          "zones": [
+            {
+              "name": "Bumba",
+              "collines_quarters": ["Budega", "Bumba", "Bunyerere", "Muka", "Nkoro", "Nyamwiyanike", "Rusigabangazi"]
+            },
+            {
+              "name": "Camazi",
+              "collines_quarters": ["Camazi", "Gisoko", "Mburi", "Muzire", "Rabiro", "Ruramba"]
+            },
+            {
+              "name": "Cendajuru",
+              "collines_quarters": ["Cendajuru", "Gahoko", "Kabageni", "Kibande", "Kigarika", "Kiruhura", "Kiyange"]
+            },
+            {
+              "name": "Gisagara",
+              "collines_quarters": ["Gerero", "Gisagara", "Gitanga", "Gitwenge", "Kagoma", "Kibogoye", "Kigati", "Kirambi", "Muganza", "Muhingamo", "Murago", "Nyuro", "Ramba", "Rubabara"]
+            },
+            {
+              "name": "Mugera",
+              "collines_quarters": ["Busumanyi", "Kaniha", "Mugera", "Musemo"]
+            },
+            {
+              "name": "Mishiha",
+              "collines_quarters": ["Buyongwe", "Gikonko", "Mishiha", "Munzenze", "Rutsindu"]
+            },
+            {
+              "name": "Mwiruzi",
+              "collines_quarters": ["Kibimba", "Mwiruzi", "Rugerero", "Rukwega", "Runihira"]
+            },
+            {
+              "name": "Nyamugari",
+              "collines_quarters": ["Busyana", "Gashigwe", "Gitaramuka", "Nyamugari", "Rukoyoyo"]
+            },
+            {
+              "name": "Twinkwavu",
+              "collines_quarters": ["Gisoro", "Misugi", "Nyagisovu", "Nyakuguma", "Twinkwavu"]
+            }
+          ]
+        },
+        {
+          "name": "Gisuru",
+          "zones": [
+            {
+              "name": "Gisuru",
+              "collines_quarters": ["Bugama", "Bunyambo", "Gahinga", "Gisuru", "Itahe", "Kabingo", "Kinama", "Kireka", "Muhindo", "Murehe", "Ntende", "Nyabigabiro", "Rusange", "Ruyaga", "Rwerambere"]
+            },
+            {
+              "name": "Kabanga",
+              "collines_quarters": ["Kabanga", "Kigangabuko", "Munazi", "Musumba", "Nyamigina", "Nyamusasa", "Ruveri"]
+            },
+            {
+              "name": "Kinyinya",
+              "collines_quarters": ["Bugongo", "Gasunu", "Gataba", "Karindo", "Kibari", "Kinyinya", "Mayanza", "Muvumu", "Nyakibere", "Nyamunazi", "Vumwe"]
+            },
+            {
+              "name": "Muhwazi",
+              "collines_quarters": ["Bwome", "Gatare", "Kivoga", "Nyakibingo", "Nyakiyonga", "Nyamasenga", "Nyamitanga", "Nyaruganda", "Nyarumuri", "Remba", "Ruharo", "Titi"]
+            },
+            {
+              "name": "Ndemeka",
+              "collines_quarters": ["Butarangira", "Gacokwe", "Gakangaga", "Itaba", "Kabuyenge", "Kavumwe", "Musha", "Ndemeka"]
+            },
+            {
+              "name": "Nyabitare",
+              "collines_quarters": ["Caga", "Kigamba", "Migende", "Muvumu", "Mwegereza", "Nyabigozi", "Nyabitaka", "Nyabitare", "Nyakirunga", "Nyakivumu", "Rubanga", "Ruhuni"]
+            },
+            {
+              "name": "Nyabitsinda",
+              "collines_quarters": ["Bihembe", "Kirungu", "Mago", "Muramba", "Mureba", "Murehe", "Ndago", "Nyabitsinda", "Nyagahanda", "Nyagitika", "Nyamitukwe"]
+            },
+            {
+              "name": "Rukobe",
+              "collines_quarters": ["Iteka", "Iyogero", "Kinanira", "Munyinya", "Nkurubuye", "Nyarumanga", "Rukobe", "Rutonde"]
+            }
+          ]
+        },
+        {
+          "name": "Muyinga",
+          "zones": [
+            {
+              "name": "Bwasare",
+              "collines_quarters": ["Butirabura", "Bwasare", "Gishuha", "Jani", "Kagugwe", "Kaguhu", "Karama", "Rukinzo"]
+            },
+            {
+              "name": "Buhinyuza",
+              "collines_quarters": ["Buhinyuza", "Karehe", "Kibimba", "Mabago", "Nyabucugu", "Nyaruhengeri", "Nyarunazi", "Rugazi"]
+            },
+            {
+              "name": "Cumba",
+              "collines_quarters": ["Burenza", "Butihinda", "Bwica", "Cumba", "Kiringanire", "Mizuga", "Nyamirambo", "Nyarusange", "Ruganigwa"]
+            },
+            {
+              "name": "Gasave",
+              "collines_quarters": ["Bugungu", "Bunywana", "Butihinda", "Gasave", "Gitaramuka", "Karongwe", "Kiyange", "Muramba", "Ntobwe"]
+            },
+            {
+              "name": "Gasorwe",
+              "collines_quarters": ["Bihogo", "Gikwiye", "Karambo", "Karira", "Kinama", "Kiryama", "Masasu", "Rusimbuko"]
+            },
+            {
+              "name": "Higiro",
+              "collines_quarters": ["Higiro", "Karimbi", "Kigoganya", "Ngogomo", "Nyarubambwe", "Nyungu"]
+            },
+            {
+              "name": "Jarama",
+              "collines_quarters": ["Burasira", "Gihongo", "Jarama", "Kara", "Nyagishiru", "Nyankurazo", "Rugongo", "Ruvumu"]
+            },
+            {
+              "name": "Kiyanza",
+              "collines_quarters": ["Bonero", "Bubaji", "Ciyando", "Gahekenya", "Gasenyi", "Gitaba", "Kibongera", "Kigajo", "Kiyanza", "Mukungu", "Musenga", "Rutyazo"]
+            },
+            {
+              "name": "Kayenzi",
+              "collines_quarters": ["Kayenzi", "Kibongera", "Mageni", "Musenga", "Nkoyoyo", "Rusengo"]
+            },
+            {
+              "name": "Kiremba",
+              "collines_quarters": ["Gasuru", "Kimanga", "Kiremba", "Kivubo", "Kizi", "Martyazo"]
+            },
+            {
+              "name": "Munagano",
+              "collines_quarters": ["Buhurana", "Gatovu", "Munagano", "Musenyi", "Ntamba", "Nyamarumba", "Sanzwe"]
+            },
+            {
+              "name": "Murama",
+              "collines_quarters": ["Gasasa", "Kavumu", "Mubuga", "Murama", "Mwurire", "Rusumo", "Ryabihira"]
+            },
+            {
+              "name": "Mwakiro",
+              "collines_quarters": ["Bugonza", "Butobwe", "Gakombe", "Gihoza", "Kabingo", "Karehe", "Kibande", "Kibwirwa", "Muyange", "Mwakiro"]
+            },
+            {
+              "name": "Muyinga",
+              "collines_quarters": ["Bugomora", "Burima", "Cibari", "Gahororo", "Gitongwe", "Karemera", "Kiryama", "Kivoga", "Rwimbogo", "Quartier Kibogoye", "Quartier Kinyota", "Quartier Kwibuye", "Quartier Mukoni", "Quartier Muyinga"]
+            },
+            {
+              "name": "Rugabano",
+              "collines_quarters": ["Bukwanzi", "Gahemba", "Gisuma", "Kadende", "Kavugangoma", "Mukunguza", "Rugabano", "Rukanya", "Rusheri"]
+            },
+            {
+              "name": "Rugari",
+              "collines_quarters": ["Bunywana", "Gatongati", "Kinazi", "Mahonda", "Migogo", "Rugari", "Rutoke", "Ruyiyi"]
+            }
+          ]
+        },
+        {
+          "name": "Ruyigi",
+          "zones": [
+            {
+              "name": "Busoro",
+              "collines_quarters": ["Busoro", "Gasenyi", "Kigusu", "Rubavu"]
+            },
+            {
+              "name": "Butezi",
+              "collines_quarters": ["Kirasira", "Nkongwe", "Rugoti", "Sorero"]
+            },
+            {
+              "name": "Bwagiriza",
+              "collines_quarters": ["Bwagiriza", "Gashurushuru", "Munyinya", "Nombe", "Rubaragaza", "Rutegama", "Senga"]
+            },
+            {
+              "name": "Kayongozi",
+              "collines_quarters": ["Busuma", "Caga", "Kanisha", "Mibanga", "Nkanda"]
+            },
+            {
+              "name": "Kirambi",
+              "collines_quarters": ["Bigombo", "Gatwaro", "Kirambi", "Nyamugari", "Nyarunazi", "Ruvyagira"]
+            },
+            {
+              "name": "Mubira",
+              "collines_quarters": ["Gitwa", "Mubira", "Mugogo", "Muyange"]
+            },
+            {
+              "name": "Bweru",
+              "collines_quarters": ["Bweru", "Gashawe", "Masama", "Mubavu", "Ntunda", "Nzozi"]
+            },
+            {
+              "name": "Rusengo",
+              "collines_quarters": ["Bunogera", "Buruhukiro", "Gisoro", "Kirambi", "Migege", "Nganji", "Nyagutoha"]
+            },
+            {
+              "name": "Ruyigi",
+              "collines_quarters": ["Dutwe", "Gahemba", "Kigamba", "Ngarama", "Nyarunazi", "Ruhwago", "Rukaragata", "Ruyigi", "Quartier Gasanda", "Quartier Kinyabakecuru", "Quartier Sanzu"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BUJUMBURA",
+      "capital": "Bujumbura",
+      "communes": [
+        {
+          "name": "Bubanza",
+          "zones": [
+            {
+              "name": "Bubanza",
+              "collines_quarters": ["Quartier Bubanza", "Quartier Buhororo", "Quartier Giko", "Quartier Matonge", "Quartier Ruvumvu"]
+            },
+            {
+              "name": "Buvyuko",
+              "collines_quarters": ["Cimbizi", "Muhanza", "Muhenga", "Nyabitaka", "Rugunga", "Rurabo", "Zina"]
+            },
+            {
+              "name": "Kivyuka",
+              "collines_quarters": ["Busiga", "Gashinge", "Gatare", "Kiziba", "Munanira"]
+            },
+            {
+              "name": "Mitakataka",
+              "collines_quarters": ["Gahongore", "Gatura", "Kagirigiri", "Mitakataka"]
+            },
+            {
+              "name": "Muramba",
+              "collines_quarters": ["Ciya", "Gitanga", "Gitsira", "Karinzi", "Kivyiru", "Mugimbu", "Muramba", "Mwanda", "Ngara", "Rabiro"]
+            },
+            {
+              "name": "Musigati",
+              "collines_quarters": ["Buhurika", "Bukinga", "Dondi", "Kanazi", "Kayange", "Mpishi", "Mugombarima", "Musigati", "Nyarusange"]
+            },
+            {
+              "name": "Muyebe",
+              "collines_quarters": ["Bubenga", "Butaha", "Masare", "Mugoma", "Muyebe", "Ruvyimvya"]
+            },
+            {
+              "name": "Ntamba",
+              "collines_quarters": ["Mpinga", "Ntamba", "Rugeyo", "Rusekabuye", "Rushiha"]
+            }
+          ]
+        },
+        {
+          "name": "Bukinanyana",
+          "zones": [
+            {
+              "name": "Buganda",
+              "collines_quarters": ["Cunyu", "Gasenyi", "Kaburantwa", "Ruhagarika"]
+            },
+            {
+              "name": "Buhayira",
+              "collines_quarters": ["Buhayira", "Kabuye", "Muzenga", "Remera", "Rugano"]
+            },
+            {
+              "name": "Bumba",
+              "collines_quarters": ["Bumba", "Butara", "Munyinya", "Nderama", "Rtyazo", "Ruhembe", "Runege"]
+            },
+            {
+              "name": "Buzirasazi",
+              "collines_quarters": ["Gasheke", "Gitera", "Jerama", "Maranga", "Nyarurinzi"]
+            },
+            {
+              "name": "Gahabura",
+              "collines_quarters": ["Gahabura", "Mikoni", "Murengera", "Rangira", "Rubaya"]
+            },
+            {
+              "name": "Masango",
+              "collines_quarters": ["Kibati", "Masango", "Mwungo", "Nyarwumba", "Sehe"]
+            },
+            {
+              "name": "Ndava",
+              "collines_quarters": ["Kansega", "Muremera", "Mwunguzi", "Ndava", "Nimba", "Nyamitanga"]
+            },
+            {
+              "name": "Ndora",
+              "collines_quarters": ["Bihembe", "Bitare", "Burimbi", "Giserama", "Kabondo", "Kibaya", "Myave", "Nyamyeha", "Nyarubugu"]
+            },
+            {
+              "name": "Rusenda",
+              "collines_quarters": ["Kabere", "Nyampinda", "Nyangwe", "Rusenda", "Shimwe"]
+            }
+          ]
+        },
+        {
+          "name": "Cibitoke",
+          "zones": [
+            {
+              "name": "Buhindo",
+              "collines_quarters": ["Buhindo", "Butega", "Kagimbu", "Kahirwa", "Kajera", "Kivumu"]
+            },
+            {
+              "name": "Cibitoke",
+              "collines_quarters": ["Murambi", "Quartier Cibitoke", "Quartier Kagazi", "Quartier Karurama", "Quartier Rusiga"]
+            },
+            {
+              "name": "Kiramira",
+              "collines_quarters": ["Kiramira", "Mihiza", "Rusororo", "Ruvumera"]
+            },
+            {
+              "name": "Murwi",
+              "collines_quarters": ["Bubogora", "Gitohera", "Manege", "Masha", "Mirombero", "Murwi", "Mushanga"]
+            },
+            {
+              "name": "Ngoma",
+              "collines_quarters": ["Mahande", "Mugimbu", "Ngoma", "Nyabubuye"]
+            },
+            {
+              "name": "Rugombo",
+              "collines_quarters": ["Dogodogo", "Mparambo", "Rugeregere", "Samwe", "Quartier Munyika", "Quartier Nyakagunda"]
+            },
+            {
+              "name": "Rukana",
+              "collines_quarters": ["Gabiro", "Gicaca", "Musenyi", "Ruhwa", "Rukana"]
+            }
+          ]
+        },
+        {
+          "name": "Isare",
+          "zones": [
+            {
+              "name": "Kibuye",
+              "collines_quarters": ["Buyimba", "Kibuye", "Nyarukere", "Rusha", "Sagara"]
+            },
+            {
+              "name": "Kirama",
+              "collines_quarters": ["Gasenyi", "Gatebe", "Kavya", "Muturirwa", "Rubaya", "Rutunda"]
+            },
+            {
+              "name": "Mageyo",
+              "collines_quarters": ["Buhanda", "Gitwe", "Karugamba", "Kinama", "Mageyo", "Muhororo", "Muyabara"]
+            },
+            {
+              "name": "Martyazo",
+              "collines_quarters": ["Burenza", "Butega", "Kanyinya", "Kigunga", "Kinyinya", "Magarure"]
+            },
+            {
+              "name": "Mubimbi",
+              "collines_quarters": ["Gisagara", "Kiziba", "Mubimbi", "Muzazi", "Nyankuba"]
+            },
+            {
+              "name": "Rushubi",
+              "collines_quarters": ["Bibare", "Caranka", "Cirisha", "Nyarumpongo", "Rushubi", "Rutegama"]
+            },
+            {
+              "name": "Ryarusera",
+              "collines_quarters": ["Gakenke", "Gishubi", "Kayoyo", "Mugomere", "Muhweza", "Mwura", "Zinga"]
+            }
+          ]
+        },
+        {
+          "name": "Mpanda",
+          "zones": [
+            {
+              "name": "Buringa",
+              "collines_quarters": ["Buringa", "Mpanda", "Ninga", "Nyeshanga", "Ruhahe"]
+            },
+            {
+              "name": "Butanuka",
+              "collines_quarters": ["Butanuka", "Butembe", "Kanenga", "Kivyibusha", "Ruziba"]
+            },
+            {
+              "name": "Gihanga",
+              "collines_quarters": ["Buramata", "Gihanga", "Kizina", "Murira", "Rumotomoto"]
+            },
+            {
+              "name": "Mpanda",
+              "collines_quarters": ["Gahwazi", "Gatagura", "Gifurwe", "Masha", "Nyomvyi"]
+            },
+            {
+              "name": "Mudubugu",
+              "collines_quarters": ["Busongo", "Cabiza", "Gihungwe", "Kagwema", "Muyange", "Rugunga"]
+            },
+            {
+              "name": "Musenyi",
+              "collines_quarters": ["Murengeza", "Musenyi", "Nyamabere", "Rubira", "Rugenge"]
+            },
+            {
+              "name": "Muzinda",
+              "collines_quarters": ["Butanuka", "Kibenga", "Kirengane", "Mutara", "Muzinda"]
+            },
+            {
+              "name": "Ruce",
+              "collines_quarters": ["Giseza", "Kabanga", "Ruce", "Rutake", "Rwamvurwe"]
+            },
+            {
+              "name": "Rugazi",
+              "collines_quarters": ["Bugume", "Karambira", "Kayange", "Kibuye", "Nyenkarange", "Rugazi"]
+            }
+          ]
+        },
+        {
+          "name": "Mugere",
+          "zones": [
+            {
+              "name": "Buhanda",
+              "collines_quarters": ["Bugongo", "Buhanda", "Masenga", "Nyankere", "Nyarwedeka", "Rukingiro", "Ruvyagira"]
+            },
+            {
+              "name": "Gomvyi",
+              "collines_quarters": ["Bubanza", "Burima", "Gakara", "Gomvyi", "Kayengwe", "Murambi", "Ntobo", "Rubanda", "Rutovu"]
+            },
+            {
+              "name": "Kabezi",
+              "collines_quarters": ["Kabezi", "Masama", "Migera", "Mwaza"]
+            },
+            {
+              "name": "Kanyosha",
+              "collines_quarters": ["Quartier Busoro", "Quartier Gisyo", "Quartier Kajiji", "Quartier Musama", "Quartier Nkenga"]
+            },
+            {
+              "name": "Kinindo",
+              "collines_quarters": ["Quartier Kibenga", "Quartier Kinindo", "Quartier Rukamo"]
+            },
+            {
+              "name": "Kiyenzi",
+              "collines_quarters": ["Buhina", "Gisovu", "Musugi", "Nyamaboko", "Rukuba", "Ruvumu"]
+            },
+            {
+              "name": "Mubone",
+              "collines_quarters": ["Gitenga", "Kimina", "Mubone", "Rugembe"]
+            },
+            {
+              "name": "Musaga",
+              "collines_quarters": ["Quartier Gasekebuye", "Quartier Gitaramuka", "Quartier Kamesa", "Quartier Kinanira", "Quartier Mpimba", "Quartier Muzenga", "Quartier Urumuri"]
+            },
+            {
+              "name": "Ramba",
+              "collines_quarters": ["Gakungwe", "Kiremba", "Mena", "Ramba"]
+            },
+            {
+              "name": "Ruyaga",
+              "collines_quarters": ["Bigwa", "Buhonga", "Buzige", "Kabumba", "Mboza", "Mwico", "Ruyaga"]
+            },
+            {
+              "name": "Ruziba",
+              "collines_quarters": ["Kizingwe", "Mugere", "Ngabwe", "Nyabugete", "Ruziba"]
+            }
+          ]
+        },
+        {
+          "name": "Mugina",
+          "zones": [
+            {
+              "name": "Buhoro",
+              "collines_quarters": ["Buhoro", "Busesa", "Mayuki", "Mukaka", "Nyarusebeyi", "Rumvya"]
+            },
+            {
+              "name": "Butahana",
+              "collines_quarters": ["Gafumbegeti", "Gahoma", "Gakerekwa", "Mageyo", "Muhungo", "Nyabungere", "Rungogo", "Rutorero"]
+            },
+            {
+              "name": "Mabayi",
+              "collines_quarters": ["Gitukura", "Kabere", "Kibande", "Mukoma", "Nyagaseke", "Rushiha"]
+            },
+            {
+              "name": "Mugina",
+              "collines_quarters": ["Butaramuka", "Bwayi", "Marumpu", "Mugina"]
+            },
+            {
+              "name": "Nyamakarabo",
+              "collines_quarters": ["Gitumba", "Nyamakarabo", "Nyempundu"]
+            },
+            {
+              "name": "Rubona",
+              "collines_quarters": ["Gisumo", "Kagurutsi", "Ngoma", "Nyamihana", "Rubona"]
+            },
+            {
+              "name": "Rugajo",
+              "collines_quarters": ["Gitebe", "Kirinzi", "Muyange", "Mwarangabo", "Rubirizi", "Rugajo", "Rugendo", "Rusagara"]
+            },
+            {
+              "name": "Ruhororo",
+              "collines_quarters": ["Gasebeyi", "Miremera", "Ruhororo"]
+            },
+            {
+              "name": "Ruziba",
+              "collines_quarters": ["Camakombe", "Rushima", "Ruziba"]
+            }
+          ]
+        },
+        {
+          "name": "Muhuta",
+          "zones": [
+            {
+              "name": "Bugarama",
+              "collines_quarters": ["Bugarama", "Kagona", "Kayombe", "Nyabungere"]
+            },
+            {
+              "name": "Busenge",
+              "collines_quarters": ["Burazi", "Busenge", "Canda", "Gasebeyi", "Gihondo", "Rubura"]
+            },
+            {
+              "name": "Gitaza",
+              "collines_quarters": ["Gasange", "Gitaza", "Kibingo", "Mubanga", "Mubone", "Rutunga"]
+            },
+            {
+              "name": "Magara",
+              "collines_quarters": ["Burangwa", "Cashi", "Kazigo", "Magara", "Mugendo", "Vuma"]
+            },
+            {
+              "name": "Muhuta",
+              "collines_quarters": ["Buringa", "Buyenzi", "Gitunda", "Kirombwe", "Muhuta"]
+            },
+            {
+              "name": "Ruteme",
+              "collines_quarters": ["Bambo", "Mihororo", "Nyaruyaga", "Ruteme"]
+            },
+            {
+              "name": "Rutongo",
+              "collines_quarters": ["Higiro", "Kanzaganya", "Kizuga", "Masara", "Murago", "Rutongo", "Ruyobera", "Sakonga"]
+            }
+          ]
+        },
+        {
+          "name": "Mukaza",
+          "zones": [
+            {
+              "name": "Buyenzi",
+              "collines_quarters": ["Quartier Kanzigiri", "Quartier Ruvumera", "Quartier Swahili"]
+            },
+            {
+              "name": "Bwiza",
+              "collines_quarters": ["Quartier Bwiza", "Quartier Jabe"]
+            },
+            {
+              "name": "Mukaza",
+              "collines_quarters": ["Quartier Kabondo", "Quartier Kiriri", "Quartier Mukaza", "Quartier Ngendandumwe", "Quartier Ratiro", "Quartier Rohero", "Quartier Rweza"]
+            },
+            {
+              "name": "Muyira",
+              "collines_quarters": ["Bigoma", "Coga", "Kavumu", "Kirombwe", "Mirama", "Muyira", "Rubizi"]
+            },
+            {
+              "name": "Nyakabiga",
+              "collines_quarters": ["Quartier Mugoboka", "Quartier Mutanga", "Quartier Nyakabiga", "Quartier Rumuri"]
+            }
+          ]
+        },
+        {
+          "name": "Ntahangwa",
+          "zones": [
+            {
+              "name": "Benga",
+              "collines_quarters": ["Benga", "Karunga", "Kwigere"]
+            },
+            {
+              "name": "Buterere",
+              "collines_quarters": ["Quartier Bumwe", "Quartier Kabusa", "Quartier Kiyange", "Quartier Mubone", "Quartier Mugaruro", "Quartier Muhuza", "Quartier Mwezi", "Quartier Mwizero"]
+            },
+            {
+              "name": "Cibitoke",
+              "collines_quarters": ["Quartier Buhuriro", "Quartier Humuriza", "Quartier Mahoro", "Quartier Muhuza", "Quartier Mutakura", "Quartier Mwizero", "Quartier Nyamwiza"]
+            },
+            {
+              "name": "Gatumba",
+              "collines_quarters": ["Quartier Cuhiro", "Quartier Gaharawe", "Quartier Keza", "Quartier Mahotera", "Quartier Murinzi", "Quartier Mushasha", "Quartier Rusizi", "Quartier Vugizo", "Quartier Warubondo"]
+            },
+            {
+              "name": "Gihosha",
+              "collines_quarters": ["Quartier Gitare", "Quartier Huriro", "Quartier Kigobe", "Quartier Muyaga", "Quartier Nyabagere", "Quartier Sanganiro", "Quartier Sangwe", "Quartier Taba", "Quartier Winterekwa"]
+            },
+            {
+              "name": "Kamenge",
+              "collines_quarters": ["Quartier Gikizi", "Quartier Gituro", "Quartier Heha", "Quartier Kavumu", "Quartier Mirango", "Quartier Mukozi", "Quartier Songa", "Quartier Teza", "Quartier Twinyoni", "Quartier Twizerane"]
+            },
+            {
+              "name": "Kinama",
+              "collines_quarters": ["Quartier Bubanza", "Quartier Buhinyuza", "Quartier Bururi", "Quartier Carama", "Quartier Gitega", "Quartier Kanga", "Quartier Muco", "Quartier Muramvya", "Quartier Mutaga", "Quartier Muyinga", "Quartier Ngozi", "Quartier Ruyigi"]
+            },
+            {
+              "name": "Kirekura",
+              "collines_quarters": ["Budahirwa", "Bugoma", "Kivogero", "Mikangara", "Nyaruhama"]
+            },
+            {
+              "name": "Mutimbuzi",
+              "collines_quarters": ["Quartier Bigwati", "Quartier Buhomba", "Quartier Masanganzira", "Quartier Mugirigiri", "Quartier Mutimbuzi", "Quartier Muzazi", "Quartier Samariro"]
+            },
+            {
+              "name": "Ngagara",
+              "collines_quarters": ["Quartier Gateka", "Quartier Mahinguriro", "Quartier Majambere", "Quartier Mubano", "Quartier Mugisha", "Quartier Muhinga", "Quartier Muhizi", "Quartier Ngagara", "Quartier Rukundo"]
+            },
+            {
+              "name": "Nyambuye",
+              "collines_quarters": ["Gishingano", "Nyakibande", "Nyambuye"]
+            },
+            {
+              "name": "Rubirizi",
+              "collines_quarters": ["Gahahe", "Gahwama", "Gasenyi", "Gatunguru", "Karama", "Muyange", "Nyabunyegeri", "Rubirizi", "Tenga"]
+            },
+            {
+              "name": "Rukaramu",
+              "collines_quarters": ["Quartier Gakumbu", "Quartier Kagera", "Quartier Kajaga", "Quartier Kinyinya", "Quartier Ruvyagira"]
+            }
+          ]
+        },
+        {
+          "name": "Rwibaga",
+          "zones": [
+            {
+              "name": "Bikanka",
+              "collines_quarters": ["Bikanka", "Kigozi", "Ndayi"]
+            },
+            {
+              "name": "Jenda",
+              "collines_quarters": ["Buhoro", "Jenda", "Kanyunya", "Mugoyi", "Nyarushanga", "Rwibaga", "Vyuya"]
+            },
+            {
+              "name": "Kankima",
+              "collines_quarters": ["Kibira", "Nyamugari", "Rutambiro"]
+            },
+            {
+              "name": "Kigina",
+              "collines_quarters": ["Karama", "Kigina", "Kinama", "Mugendo"]
+            },
+            {
+              "name": "Matara",
+              "collines_quarters": ["Kizunga", "Matara", "Mukonko", "Mwumba"]
+            },
+            {
+              "name": "Mugongo",
+              "collines_quarters": ["Butagazwa", "Gisarwe", "Mugongo", "Murunga"]
+            },
+            {
+              "name": "Mukike",
+              "collines_quarters": ["Mayuyu", "Nyarumanga", "Rurambira", "Ruzibazi"]
+            },
+            {
+              "name": "Nyabibondo",
+              "collines_quarters": ["Gasarara", "Mayemba", "Mbare", "Muhuha", "Nyabibondo"]
+            },
+            {
+              "name": "Nyabiraba",
+              "collines_quarters": ["Bubaji", "Kinyami", "Musenyi", "Nyabiraba", "Raro"]
+            },
+            {
+              "name": "Rukina",
+              "collines_quarters": ["Mutobo", "Ruhororo", "Rukina"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BURUNGA",
+      "capital": "Makamba",
+      "communes": [
+        {
+          "name": "Bururi",
+          "zones": [
+            {
+              "name": "Bamba",
+              "collines_quarters": ["Jungwe", "Kagwa", "Nyamiyaga", "Nyarwaga", "Ruvumu"]
+            },
+            {
+              "name": "Binyuro",
+              "collines_quarters": ["Bugeni", "Bwatemba", "Gihinga", "Gitwaro", "Mubuga", "Ntunda"]
+            },
+            {
+              "name": "Bururi",
+              "collines_quarters": ["Gisanze", "Mahonda", "Mudahandwa", "Mugozi", "Murago", "Tongwe", "Quartier Bururi", "Quartier Kigwati", "Quartier Rumonyi"]
+            },
+            {
+              "name": "Condi",
+              "collines_quarters": ["Gikwazo", "Kagimbu", "Kivubo", "Nyabucokwe", "Rutoke", "Sanzu"]
+            },
+            {
+              "name": "Burunga",
+              "collines_quarters": ["Burunga", "Kiganda", "Mubuga", "Rukanda"]
+            },
+            {
+              "name": "Gitsiro",
+              "collines_quarters": ["Kabwayi", "Kigutu", "Kirungu", "Mirango", "Mushishi"]
+            },
+            {
+              "name": "Kajondi",
+              "collines_quarters": ["Gihanga", "Gikizi", "Kajondi", "Musenyi", "Ruringanizo"]
+            },
+            {
+              "name": "Muhweza",
+              "collines_quarters": ["Gikana", "Gitobo", "Muhweza", "Musongati", "Mwarusi"]
+            },
+            {
+              "name": "Munini",
+              "collines_quarters": ["Buhinga", "Burenza", "Gahago", "Gasenyi", "Gatanga", "Munini", "Muyange", "Nyarugera"]
+            },
+            {
+              "name": "Muzenga",
+              "collines_quarters": ["Burarana", "Muzima", "Nyavyamo", "Rushemeza", "Rwankona", "Quartier Kiremba"]
+            },
+            {
+              "name": "Rutovu",
+              "collines_quarters": ["Kijima", "Kinyonzo", "Munyinya", "Mutangaro", "Muzenga", "Ruhando"]
+            },
+            {
+              "name": "Vyanda",
+              "collines_quarters": ["Kagoma", "Karehe", "Karirimvya", "Migera", "Nyakabenga", "Rweza"]
+            }
+          ]
+        },
+        {
+          "name": "Makamba",
+          "zones": [
+            {
+              "name": "Bukeye",
+              "collines_quarters": ["Bukeye", "Busoro", "Gikama", "Murambi", "Nyakazi", "Nyarubanga"]
+            },
+            {
+              "name": "Bigina",
+              "collines_quarters": ["Bigina", "Gasenga", "Kibara", "Mayange", "Mudaturwa", "Mukingo", "Musasa", "Sampeke"]
+            },
+            {
+              "name": "Nyantakara",
+              "collines_quarters": ["Gitaba", "Mugeregere", "Muguruka", "Nyantakara"]
+            },
+            {
+              "name": "Canda",
+              "collines_quarters": ["Canda", "Kirare", "Nyankara"]
+            },
+            {
+              "name": "Dunga",
+              "collines_quarters": ["Dunga", "Kigaza", "Rusovu", "Shaka"]
+            },
+            {
+              "name": "Gatabo",
+              "collines_quarters": ["Buga", "Gatabo", "Nkaramanyenye", "Rutenderi"]
+            },
+            {
+              "name": "Gitaba",
+              "collines_quarters": ["Cunamwe", "Gitaba", "Karonge", "Mahembe", "Mpinga", "Mugutu", "Murambi", "Murango"]
+            },
+            {
+              "name": "Gisenyi",
+              "collines_quarters": ["Gasaka", "Gisenyi", "Kanzege", "Munonotsi", "Musanga", "Muvumu", "Nyabangwe", "Rabiro", "Siza"]
+            },
+            {
+              "name": "Kabuye",
+              "collines_quarters": ["Gihero", "Kinoso", "Kizingoma", "Nyabigina"]
+            },
+            {
+              "name": "Kayogoro",
+              "collines_quarters": ["Borera", "Butare", "Kabizi", "Kibimba", "Muyaga", "Quartier Buhirwe", "Quartier Gitaramuka", "Quartier Mushasha", "Quartier Swahili"]
+            },
+            {
+              "name": "Kibago",
+              "collines_quarters": ["Jimbi", "Kibago", "Kivoga", "Mbizi", "Rubimba", "Ruyange"]
+            },
+            {
+              "name": "Kiyange",
+              "collines_quarters": ["Kabanga", "Kiyange", "Masaswe", "Migongo", "Nyabigina", "Nyarutuntu", "Rusunwe"]
+            },
+            {
+              "name": "Makamba",
+              "collines_quarters": ["Kayoba", "Muresi", "Quartier Gitwa", "Quartier Kigarama", "Quartier Kigwati", "Quartier Kirama", "Quartier Mukenke", "Quartier Muyogo", "Quartier Nyaburumba", "Quartier Nyankoni", "Quartier Rugarama", "Quartier Rukanko", "Quartier Swahili"]
+            }
+          ]
+        },
+        {
+          "name": "Matana",
+          "zones": [
+            {
+              "name": "Gasibe",
+              "collines_quarters": ["Bitezi", "Gitanga", "Kinyinya", "Ntega", "Sakinyonga"]
+            },
+            {
+              "name": "Gisarenda",
+              "collines_quarters": ["Butwe", "Gisarenda", "Mahango", "Ruzira"]
+            },
+            {
+              "name": "Kibezi",
+              "collines_quarters": ["Donge", "Kibezi", "Mpota", "Musho", "Mutobo"]
+            },
+            {
+              "name": "Kivumu",
+              "collines_quarters": ["Gakaranka", "Kivumu", "Munini"]
+            },
+            {
+              "name": "Kiryama",
+              "collines_quarters": ["Gahanda", "Kinwa", "Kiryama", "Mutsinda", "Rutundwe", "Rwego"]
+            },
+            {
+              "name": "Mahwa",
+              "collines_quarters": ["Kampezi", "Mahwa", "Ndava", "Nyabikenke"]
+            },
+            {
+              "name": "Matana",
+              "collines_quarters": ["Bihanga", "Gisisye", "Matana", "Mugano"]
+            },
+            {
+              "name": "Muheka",
+              "collines_quarters": ["Muheka", "Musenyi", "Taba"]
+            },
+            {
+              "name": "Mugamba",
+              "collines_quarters": ["Burasira", "Coma", "Ntentamaza", "Nyatubuye", "Rukere", "Taba"]
+            },
+            {
+              "name": "Mwumba",
+              "collines_quarters": ["Gitara", "Gitaramuka", "Gozi", "Mwumba"]
+            },
+            {
+              "name": "Ndago",
+              "collines_quarters": ["Jenda", "Ndago"]
+            },
+            {
+              "name": "Nyagasasa",
+              "collines_quarters": ["Mubira", "Ndengo", "Nyakigano", "Nyamugari", "Ruhinga", "Ruko"]
+            },
+            {
+              "name": "Ruvumvu",
+              "collines_quarters": ["Rusama", "Tara", "Yengero"]
+            },
+            {
+              "name": "Songa",
+              "collines_quarters": ["Kigabiro", "Muzamba", "Songa"]
+            },
+            {
+              "name": "Vyuya",
+              "collines_quarters": ["Gataka", "Kirinzi", "Mugomera", "Nyakimonyi", "Vyuya"]
+            }
+          ]
+        },
+        {
+          "name": "Musongati",
+          "zones": [
+            {
+              "name": "Butezi",
+              "collines_quarters": ["Buhogo", "Butezi", "Kabingo", "Kibimba", "Mutwana", "Mwebeya", "Nkanka", "Rubanga", "Shasha"]
+            },
+            {
+              "name": "Gakungu",
+              "collines_quarters": ["Gakungu", "Mugombwa", "Murara", "Murembera", "Mwango", "Ngomante", "Nyabakara", "Nyamateke"]
+            },
+            {
+              "name": "Gatakazi",
+              "collines_quarters": ["Gatakazi", "Kagunga", "Maganahe", "Rusunu", "Yove"]
+            },
+            {
+              "name": "Giharo",
+              "collines_quarters": ["Bayaga", "Bukeno", "Giharo", "Gitanga", "Kanyererwe", "Mura", "Musenyi", "Nkurye"]
+            },
+            {
+              "name": "Kayero",
+              "collines_quarters": ["Gihera", "Gitaba", "Juragati", "Kayove", "Munyika", "Musotera", "Ngarama", "Nyamiyaga", "Rorero"]
+            },
+            {
+              "name": "Kiguhu",
+              "collines_quarters": ["Buranga", "Gasasa", "Kiguhu", "Mbuye", "Mihama", "Nyakabanda", "Nyakazu"]
+            },
+            {
+              "name": "Mpinga",
+              "collines_quarters": ["Butambara", "Butamya", "Gihinga", "Kagoma", "Kibanda", "Kigamba", "Maganahe", "Mpinga", "Muganza"]
+            },
+            {
+              "name": "Mugondo",
+              "collines_quarters": ["Bayumbu", "Gasenga", "Gasozi", "Mugondo", "Ngara", "Ntonzi", "Rasa", "Rutoke"]
+            },
+            {
+              "name": "Musongati",
+              "collines_quarters": ["Buhinga", "Giheta", "Kamaramagambo", "Nyabigozi", "Nyabisindu", "Runyoni"]
+            },
+            {
+              "name": "Muzye",
+              "collines_quarters": ["Buyaga", "Gatonga", "Murehe", "Muzye", "Nyembuye", "Shembe"]
+            },
+            {
+              "name": "Ngoma",
+              "collines_quarters": ["Cero", "Makakwe", "Mungwa", "Munywero", "Musagara", "Ngoma", "Nyabibuye"]
+            },
+            {
+              "name": "Shanga",
+              "collines_quarters": ["Gisasa", "Karera", "Mabawe", "Mbuza", "Nyangazi", "Nyanza", "Rugunga", "Shanga"]
+            }
+          ]
+        },
+        {
+          "name": "Nyanza",
+          "zones": [
+            {
+              "name": "Gishiha",
+              "collines_quarters": ["Jongwe", "Kiyazi", "Mutobo", "Nyarubano", "Rurambira", "Rutegama"]
+            },
+            {
+              "name": "Gitara",
+              "collines_quarters": ["Bikobe", "Budaketwa", "Musenyi", "Nyamugari", "Ruvuga"]
+            },
+            {
+              "name": "Kabonga",
+              "collines_quarters": ["Gasaba", "Gisenga", "Kabonga", "Mukerezi", "Nyabigina"]
+            },
+            {
+              "name": "Kayogoro",
+              "collines_quarters": ["Bukunda", "Burima", "Karinzi", "Kigamba", "Mivo", "Mubondo", "Nyabitabo"]
+            },
+            {
+              "name": "Kayove",
+              "collines_quarters": ["Gahandu", "Gikuzi", "Martyazo", "Mazuru", "Murinda", "Ndoba"]
+            },
+            {
+              "name": "Kazirabageni",
+              "collines_quarters": ["Biniganyi", "Buheka", "Kazirabageni", "Kiderege"]
+            },
+            {
+              "name": "Mabanda",
+              "collines_quarters": ["Gikombe", "Gikurazo", "Kibimba", "Mabanda", "Mara", "Mutwazi", "Nkondo", "Quartier Mudaturwa", "Quartier Mushasha", "Quartier Nyabusunzu", "Quartier Sagara", "Quartier Samvura"]
+            },
+            {
+              "name": "Mpinga",
+              "collines_quarters": ["Gitaba", "Kagege", "Kigamba", "Mudende", "Rubanda"]
+            },
+            {
+              "name": "Mukubano",
+              "collines_quarters": ["Kabo", "Mugumure", "Mukubano", "Ruvumera"]
+            },
+            {
+              "name": "Mukungu",
+              "collines_quarters": ["Mukimba", "Mukungu", "Rimbo", "Rubindi"]
+            },
+            {
+              "name": "Muyange",
+              "collines_quarters": ["Muyange", "Mwimbiro", "Nyabutare", "Rangi", "Ruvyagira"]
+            },
+            {
+              "name": "Nyanza",
+              "collines_quarters": ["Bukeye", "Kabondo", "Mugerama", "Mvugo", "Quartier Bogorwa", "Quartier Bukeye", "Quartier Gitunda", "Quartier Isanganiro", "Quartier Kigembezi", "Quartier Ngoro", "Quartier Nyamirongo", "Quartier Swahili"]
+            },
+            {
+              "name": "Vugizo",
+              "collines_quarters": ["Higiro", "Karonge", "Kigombe", "Mbizi", "Mugu", "Nyamirinzi", "Rabiro"]
+            }
+          ]
+        },
+        {
+          "name": "Rumonge",
+          "zones": [
+            {
+              "name": "Buruhukiro",
+              "collines_quarters": ["Gitwe", "Karagara", "Muhanda", "Murambi", "Nyagasaka"]
+            },
+            {
+              "name": "Burambi",
+              "collines_quarters": ["Bisaka", "Busaga", "Gahinda", "Gitaramuka", "Rwaniro"]
+            },
+            {
+              "name": "Buyengero",
+              "collines_quarters": ["Kanyinya", "Mabanza", "Mujigo", "Nkizi", "Runyinya"]
+            },
+            {
+              "name": "Gatete",
+              "collines_quarters": ["Busebwa", "Gatete", "Mugara", "Mutambara"]
+            },
+            {
+              "name": "Kigwena",
+              "collines_quarters": ["Cabara", "Gashasha", "Kanenge", "Mayengo", "Nyakuguma"]
+            },
+            {
+              "name": "Kizuka",
+              "collines_quarters": ["Gatwe", "Kagongo", "Kizuka", "Mibanda", "Mwange"]
+            },
+            {
+              "name": "Maramvya",
+              "collines_quarters": ["Busura", "Gisenyi", "Gishiha", "Magana", "Maramvya", "Muzi"]
+            },
+            {
+              "name": "Mariza",
+              "collines_quarters": ["Buhinyuza", "Buyenzi", "Rumonyi", "Rutwenzi"]
+            },
+            {
+              "name": "Minago",
+              "collines_quarters": ["Karonke", "Minago", "Muhuzu", "Muturirwa", "Rutumo"]
+            },
+            {
+              "name": "Mudende",
+              "collines_quarters": ["Gasenyi", "Kinama", "Kirama", "Mudende", "Sebeyi"]
+            },
+            {
+              "name": "Muzenga",
+              "collines_quarters": ["Banda", "Gitsinda", "Karambi", "Nyacambuko", "Nyamurunga", "Rubirizi"]
+            },
+            {
+              "name": "Rumonge",
+              "collines_quarters": ["Quartier Birimba", "Quartier Gihwanya", "Quartier Iteba", "Quartier Kanyenkoko", "Quartier Mugomere", "Quartier Nkayamba", "Quartier Rukinga", "Quartier Swahili"]
+            },
+            {
+              "name": "Rusabagi",
+              "collines_quarters": ["Gakonko", "Gatobo", "Gitaba", "Gitongwe", "Murara", "Murenge"]
+            }
+          ]
+        },
+        {
+          "name": "Rutana",
+          "zones": [
+            {
+              "name": "Bukemba",
+              "collines_quarters": ["Bukemba", "Gihofi", "Kabanga", "Murama"]
+            },
+            {
+              "name": "Butare",
+              "collines_quarters": ["Bugiga", "Butare", "Muyombwe", "Rubanga", "Ruranga"]
+            },
+            {
+              "name": "Gitaba",
+              "collines_quarters": ["Bugunga", "Buta", "Gasakuza", "Gaterama", "Gatongati", "Gitaba", "Kinganda", "Maramvya", "Mika"]
+            },
+            {
+              "name": "Busoni",
+              "collines_quarters": ["Burara", "Gatare", "Gatete", "Kigoma", "Kivo", "Munazi", "Nyakizu"]
+            },
+            {
+              "name": "Bwambarangwe",
+              "collines_quarters": ["Budahunga", "Butegana", "Kabirizi", "Kabuyenge", "Mukenke"]
+            },
+            {
+              "name": "Cumba",
+              "collines_quarters": ["Burwana", "Cumba", "Nkomero", "Tonga"]
+            },
+            {
+              "name": "Gisenyi",
+              "collines_quarters": ["Gisenyi", "Higiro", "Kibonde", "Marembo", "Muhuzu", "Murambi", "Nyabisindu", "Rugarama", "Rwibikara"]
+            },
+            {
+              "name": "Gitobe",
+              "collines_quarters": ["Butahana", "Butihinda", "Gahosha", "Gasuga", "Rungazi"]
+            },
+            {
+              "name": "Kabanga",
+              "collines_quarters": ["Buhimba", "Buringa", "Kabanga", "Karambo", "Kididiri", "Rurende"]
+            },
+            {
+              "name": "Kimeza",
+              "collines_quarters": ["Gasave", "Kibazi", "Kimeza", "Mugongo", "Ruyenzi"]
+            },
+            {
+              "name": "Mukerwa",
+              "collines_quarters": ["Kagege", "Kiravumba", "Mugobe", "Mukerwa", "Munyinya", "Renga", "Runyinya"]
+            },
+            {
+              "name": "Murore",
+              "collines_quarters": ["Gatemere", "Murore", "Nyabugeni", "Rutabo", "Ruyaga", "Rurira"]
+            },
+            {
+              "name": "Nyagisozi",
+              "collines_quarters": ["Gitete", "Kumana", "Muvyuko", "Muyange", "Nyagisozi", "Nyange", "Ruheha", "Sigu"]
+            },
+            {
+              "name": "Nyenzi",
+              "collines_quarters": ["Mubuga", "Ngoma", "Nyenzi", "Ruhongore"]
+            },
+            {
+              "name": "Shore",
+              "collines_quarters": ["Bigombo", "Coga", "Santunda", "Shore"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BUTANYERERA",
+      "capital": "Ngozi",
+      "communes": [
+        {
+          "name": "Busoni",
+          "zones": [
+            {
+              "name": "Baziro",
+              "collines_quarters": ["Baziro", "Bucana", "Gihinga", "Kivumu", "Marembo", "Mirwa"]
+            },
+            {
+              "name": "Bugorora",
+              "collines_quarters": ["Bugorora", "Buhevyi", "Kaduduri", "Kibonobono", "Mutarishwa"]
+            },
+            {
+              "name": "Buhoro",
+              "collines_quarters": ["Buhoro", "Bunywera", "Karambo", "Minyago", "Rusara"]
+            },
+            {
+              "name": "Busoni",
+              "collines_quarters": ["Burara", "Gatare", "Gatete", "Kigoma", "Kivo", "Munazi", "Nyakizu"]
+            },
+            {
+              "name": "Bwambarangwe",
+              "collines_quarters": ["Budahunga", "Butegana", "Kabirizi", "Kabuyenge", "Mukenke"]
+            },
+            {
+              "name": "Cumba",
+              "collines_quarters": ["Burwana", "Cumba", "Nkomero", "Tonga"]
+            },
+            {
+              "name": "Gisenyi",
+              "collines_quarters": ["Gisenyi", "Higiro", "Kibonde", "Marembo", "Muhuzu", "Murambi", "Nyabisindu", "Rugarama", "Rwibikara"]
+            },
+            {
+              "name": "Gitobe",
+              "collines_quarters": ["Butahana", "Butihinda", "Gahosha", "Gasuga", "Rungazi"]
+            },
+            {
+              "name": "Kabanga",
+              "collines_quarters": ["Buhimba", "Buringa", "Kabanga", "Karambo", "Kididiri", "Rurende"]
+            },
+            {
+              "name": "Kimeza",
+              "collines_quarters": ["Gasave", "Kibazi", "Kimeza", "Mugongo", "Ruyenzi"]
+            },
+            {
+              "name": "Mukerwa",
+              "collines_quarters": ["Kagege", "Kiravumba", "Mugobe", "Mukerwa", "Munyinya", "Renga", "Runyinya"]
+            },
+            {
+              "name": "Murore",
+              "collines_quarters": ["Gatemere", "Murore", "Nyabugeni", "Rutabo", "Ruyaga", "Rurira"]
+            },
+            {
+              "name": "Nyagisozi",
+              "collines_quarters": ["Gitete", "Kumana", "Muvyuko", "Muyange", "Nyagisozi", "Nyange", "Ruheha", "Sigu"]
+            },
+            {
+              "name": "Nyenzi",
+              "collines_quarters": ["Mubuga", "Ngoma", "Nyenzi", "Ruhongore"]
+            },
+            {
+              "name": "Shore",
+              "collines_quarters": ["Bigombo", "Coga", "Santunda", "Shore"]
+            }
+          ]
+        },
+        {
+          "name": "Kayanza",
+          "zones": [
+            {
+              "name": "Jene",
+              "collines_quarters": ["Jene", "Kibuba", "Kigeri", "Mugoyi", "Mutana", "Ngoma", "Ruhinga", "Rusambi", "Ryamukona", "Songore", "Yandaro"]
+            },
+            {
+              "name": "Kabarore",
+              "collines_quarters": ["Caguka", "Gikingo", "Kidunduri", "Kirehe", "Kivuvu", "Mugera", "Mugongo", "Munege", "Nyamisagara"]
+            },
+            {
+              "name": "Kabuye",
+              "collines_quarters": ["Benga", "Kinyamukizi", "Kinzobe", "Maruri", "Migege", "Mpanga", "Ntarambo", "Nyabikaranka", "Nyangwe", "Ryirengeye", "Shikankoni"]
+            },
+            {
+              "name": "Kayanza",
+              "collines_quarters": ["Bubezi", "Cukiro", "Gahahe", "Karinzi", "Kinga", "Mihigo", "Murago", "Mwendo", "Nyabihanga", "Quartier Kirema", "Quartier Musave"]
+            },
+            {
+              "name": "Mparamirundi",
+              "collines_quarters": ["Bigera", "Cendajuru", "Gahini", "Gitemezi", "Kinyami", "Magana", "Makombe", "Mihama", "Mparamirundi", "Munyange", "Mutsinda", "Nyamisebo", "Tubiri"]
+            },
+            {
+              "name": "Murima",
+              "collines_quarters": ["Canzara", "Gacu", "Gihororo", "Kavumu", "Kibingo", "Magamba", "Murima", "Nkuba", "Ruvomo", "Rwintare"]
+            },
+            {
+              "name": "Muruta",
+              "collines_quarters": ["Busambo", "Buziraguhindwa", "Karunyinya", "Kavoga", "Manini", "Muruta", "Myugariro", "Nyamiyogoro", "Remera", "Yanza"]
+            },
+            {
+              "name": "Nkonge",
+              "collines_quarters": ["Campazi", "Gishubi", "Mikuba", "Mutana", "Nkonge", "Nyakibari", "Ruvumu"]
+            },
+            {
+              "name": "Nyabihogo",
+              "collines_quarters": ["Gitwa", "Muhweza", "Nemba", "Nyabihogo", "Ruhande"]
+            },
+            {
+              "name": "Rugazi",
+              "collines_quarters": ["Buvumo", "Buyumpu", "Dusasa", "Gashiru", "Gisagara", "Kibati", "Tondero", "Yanza"]
+            },
+            {
+              "name": "Rukere",
+              "collines_quarters": ["Caratsi", "Karama", "Manga", "Randa", "Rorero", "Ruhororo", "Rukere", "Runyinya", "Rutega"]
+            },
+            {
+              "name": "Rwegura",
+              "collines_quarters": ["Kaserege", "Kibakwe", "Kibaya", "Mpfunda", "Muganza", "Rwagongwe", "Rwegura"]
+            }
+          ]
+        },
+        {
+          "name": "Kiremba",
+          "zones": [
+            {
+              "name": "Birambi",
+              "collines_quarters": ["Buhigiranka", "Gashingwe", "Gatwe", "Kigina", "Kinyovu", "Masama", "Martyazo", "Muremera", "Mushonge", "Rurama", "Shinge", "Shoza"]
+            },
+            {
+              "name": "Bugina",
+              "collines_quarters": ["Bitagazwa", "Bunogera", "Kibuye", "Kidasha", "Kivoga", "Migongo", "Nkomero", "Nyabikenke", "Nyamarobe", "Ragwe"]
+            },
+            {
+              "name": "Cindonyi",
+              "collines_quarters": ["Bisiga", "Kagoti", "Kidasha", "Kirungu", "Nyambo", "Rubaya", "Rusave"]
+            },
+            {
+              "name": "Gakere",
+              "collines_quarters": ["Cayi", "Gakere", "Kibande", "Kibezi", "Kiremera", "Kiyange", "Munagano", "Ngeramigongo", "Ruvumu"]
+            },
+            {
+              "name": "Giheta",
+              "collines_quarters": ["Bihangare", "Bitambwe", "Congori", "Gicumbi", "Kidobori", "Masama", "Muhuzo", "Nyamurenge"]
+            },
+            {
+              "name": "Kiremba",
+              "collines_quarters": ["Cagwa", "Gahororo", "Gatwaro", "Gisuka", "Gitaro", "Kiremba", "Masasu", "Mugerera", "Musanga", "Ruhama", "Ruyumpu", "Rwimbogo"]
+            },
+            {
+              "name": "Marangara",
+              "collines_quarters": ["Burenge", "Gisekuro", "Kagina", "Kigoma", "Kigufi", "Kizenga", "Makaba", "Ndihwe", "Nyakibari", "Nyamugari", "Nyanza", "Ruramba"]
+            },
+            {
+              "name": "Musasa",
+              "collines_quarters": ["Buhama", "Butare", "Canamo", "Kabanga", "Kabari", "Kagarama", "Masoro", "Mufigi", "Musasa", "Ruhata", "Rutobo"]
+            },
+            {
+              "name": "Nyamugari",
+              "collines_quarters": ["Burenza", "Gikomero", "Higiro", "Mutara", "Nyunzwe", "Renga", "Rugomba", "Runda"]
+            },
+            {
+              "name": "Nyamurenza",
+              "collines_quarters": ["Gasegerwa", "Gicu", "Gikingo", "Gitare", "Kaganda", "Kagoma", "Kajaga", "Mubungere", "Mugende", "Nyabikenke", "Nyarusange"]
+            }
+          ]
+        },
+        {
+          "name": "Kirundo",
+          "zones": [
+            {
+              "name": "Bugabira",
+              "collines_quarters": ["Gacamirindi", "Ntaho", "Ruhehe", "Rusugi"]
+            },
+            {
+              "name": "Bukuba",
+              "collines_quarters": ["Bwinyana", "Canzikiro", "Gahe", "Muramba", "Muyebe", "Nyagatovu", "Nyabihanga", "Rwisuri"]
+            },
+            {
+              "name": "Cendajuru",
+              "collines_quarters": ["Canika", "Cendajuru", "Kabirizi", "Kigobe", "Kiziba"]
+            },
+            {
+              "name": "Cewe",
+              "collines_quarters": ["Ceru", "Cewe", "Rukuramigabo", "Runyonza"]
+            },
+            {
+              "name": "Gashingwa",
+              "collines_quarters": ["Burarana", "Gashingwa", "Kavumu", "Kiraro", "Kirima", "Martyazo", "Nyakibanda", "Nyamivuma", "Nyamyumba", "Rugeri"]
+            },
+            {
+              "name": "Gihosha",
+              "collines_quarters": ["Gakana", "Gihosha", "Kinyangurube", "Mutara", "Mwenya", "Rugero", "Shinge"]
+            },
+            {
+              "name": "Gikuyo",
+              "collines_quarters": ["Bugera", "Busenyi", "Cumva", "Gikuyo", "Kanyinya", "Karamagi", "Mataka", "Rambo"]
+            },
+            {
+              "name": "Kavomo",
+              "collines_quarters": ["Kavomo", "Kireka", "Kiyanza", "Muramba", "Yaranda"]
+            },
+            {
+              "name": "Kigina",
+              "collines_quarters": ["Gaturanda", "Gitorongero", "Karisha", "Kigina", "Nyabikenke"]
+            },
+            {
+              "name": "Kigoma",
+              "collines_quarters": ["Kigoma", "Muyange", "Nyamata", "Rugando", "Rugasa", "Saruduha", "Shenga"]
+            },
+            {
+              "name": "Kiri",
+              "collines_quarters": ["Cimo", "Kiri", "Mubuga", "Mugombwa", "Munyinya", "Ngaragu", "Ntembe"]
+            },
+            {
+              "name": "Kirundo",
+              "collines_quarters": ["Murama", "Quartier Bushaza", "Quartier Kavogero", "Quartier Kumahoro", "Quartier Rupfunda", "Quartier Windora"]
+            },
+            {
+              "name": "Kiyonza",
+              "collines_quarters": ["Cindonyi", "Cinuma", "Gasagara", "Kiyonza", "Ninda", "Nunga", "Nyakarama", "Rubuga", "Rutamo"]
+            },
+            {
+              "name": "Mugendo",
+              "collines_quarters": ["Buringanire", "Carubambo", "Kinyovu", "Makombe", "Mariza", "Mugendo", "Ntango", "Rutagara", "Sasa"]
+            },
+            {
+              "name": "Murungurira",
+              "collines_quarters": ["Gitwenzi", "Kamenya", "Kanyagu", "Kigina", "Murungurira", "Susa"]
+            },
+            {
+              "name": "Ntega",
+              "collines_quarters": ["Gasave", "Kigaga", "Mihigo", "Monge", "Ntega", "Nyabisindu", "Nyemera", "Rugese"]
+            },
+            {
+              "name": "Nyamabuye",
+              "collines_quarters": ["Bwiza", "Gitwe", "Kamwayi", "Muyumpu", "Nyamabuye", "Rukondokondo", "Ryagihana"]
+            },
+            {
+              "name": "Runyankezi",
+              "collines_quarters": ["Bugorora", "Gisitwe", "Mwendo", "Ngendo", "Rukore", "Runyankezi"]
+            },
+            {
+              "name": "Rushubije",
+              "collines_quarters": ["Gatwe", "Kanabugiri", "Muyinza", "Nkorwe", "Nyakibingo", "Rushubije", "Rwimbogo"]
+            },
+            {
+              "name": "Vumbi",
+              "collines_quarters": ["Butsimba", "Gasura", "Gikomero", "Kabuye", "Mbasi", "Nyabikenke", "Rwimanzovu", "Shororo", "Vumbi"]
+            }
+          ]
+        },
+        {
+          "name": "Matongo",
+          "zones": [
+            {
+              "name": "Banga",
+              "collines_quarters": ["Banga", "Bihunge", "Matongo", "Mpemba", "Munini", "Murambi", "Mutarure", "Nyakibingo", "Rudehe"]
+            },
+            {
+              "name": "Burarana",
+              "collines_quarters": ["Burarana", "Butuhurana", "Bwisange", "Kijuri", "Mikamba", "Nyarurambi", "Ruvumu"]
+            },
+            {
+              "name": "Busangana",
+              "collines_quarters": ["Burarana", "Busangana", "Busekera", "Gashishima", "Kigereka", "Nyambo", "Rwantsinda", "Rusha"]
+            },
+            {
+              "name": "Butaganzwa",
+              "collines_quarters": ["Busokoza", "Gahise", "Gatabo", "Mufumya", "Muremera", "Nkango", "Nyarurama", "Rukambura"]
+            },
+            {
+              "name": "Gatara",
+              "collines_quarters": ["Gakenke", "Gihororo", "Karambi", "Kivuruga", "Muhingira", "Murago", "Nyarurambi", "Ruhengeri"]
+            },
+            {
+              "name": "Kabuye",
+              "collines_quarters": ["Camizi", "Gitwe", "Kabuye", "Kinyovu", "Munyinya", "Musonge", "Nteko", "Rukoma"]
+            },
+            {
+              "name": "Mbirizi",
+              "collines_quarters": ["Kanyankuru", "Karurusi", "Kibaribari", "Kibayi", "Kibenga", "Mbirizi", "Mudusi", "Munini", "Rubagabaga"]
+            },
+            {
+              "name": "Ngoro",
+              "collines_quarters": ["Gisyo", "Gitwenge", "Kabungo", "Kigume", "Migende", "Ngendo", "Ngoro", "Nteko", "Rwankuba", "Shinya"]
+            },
+            {
+              "name": "Ninga",
+              "collines_quarters": ["Bumba", "Gikungere", "Munyinya", "Ninga", "Rugoma"]
+            },
+            {
+              "name": "Nyabibuye",
+              "collines_quarters": ["Kigarama", "Kigwandi", "Kiryama", "Musema", "Nyabibuye", "Shembati"]
+            },
+            {
+              "name": "Ruganza",
+              "collines_quarters": ["Bandaga", "Burengo", "Bwayi", "Gasare", "Kibavu", "Kivumu", "Muganza"]
+            }
+          ]
+        },
+        {
+          "name": "Muhanga",
+          "zones": [
+            {
+              "name": "Bisha",
+              "collines_quarters": ["Bisha", "Bishuri", "Gatare", "Kabuye", "Karehe", "Nyabitwe", "Nyamonde", "Rubirizi", "Tara"]
+            },
+            {
+              "name": "Gaheta",
+              "collines_quarters": ["Butanyerera", "Gacokwe", "Gipfuvya", "Karama", "Muzumure", "Nyabiyogi"]
+            },
+            {
+              "name": "Gahombo",
+              "collines_quarters": ["Businde", "Butezi", "Gahombo", "Gakuro", "Gishunzi", "Karinzi", "Kinyonga", "Kivoga", "Kiyange", "Mikoni", "Rukago", "Ruzingati"]
+            },
+            {
+              "name": "Gikomero",
+              "collines_quarters": ["Gikomero", "Kaguruka", "Kiguruka", "Kirahamira", "Musagara", "Rubungu", "Rusave"]
+            },
+            {
+              "name": "Muhanga",
+              "collines_quarters": ["Gaharo", "Gashibuka", "Kibimba", "Mbaba", "Muhanga", "Musama", "Mwendo", "Ngoma", "Rugamba", "Rushenza"]
+            },
+            {
+              "name": "Mibazi",
+              "collines_quarters": ["Ceyerezi", "Gasenyi", "Gatozo", "Kanyundo", "Masanze", "Mbogwe", "Mibazi", "Ndava", "Nyamwera", "Sakinyinya"]
+            },
+            {
+              "name": "Mubogora",
+              "collines_quarters": ["Bushoka", "Gatura", "Gisara", "Gitamo", "Kivuzo", "Mubogora", "Nyamitanga", "Nyarurambi", "Rubanga", "Rushubi"]
+            },
+            {
+              "name": "Nzewe",
+              "collines_quarters": ["Bigugo", "Butwe", "Gasave", "Jimbi", "Kavuvuma", "Kivuvuma", "Mwenene", "Nzewe", "Rukanu", "Shurugumya"]
+            },
+            {
+              "name": "Rango",
+              "collines_quarters": ["Gihororo", "Gitibu", "Nyabibuye", "Nyarusange", "Rama", "Rango", "Ruhinga"]
+            }
+          ]
+        },
+        {
+          "name": "Ngozi",
+          "zones": [
+            {
+              "name": "Buhiga",
+              "collines_quarters": ["Busoro", "Gahwazi", "Gakeceri", "Kinyana", "Makombe", "Masama"]
+            },
+            {
+              "name": "Busiga",
+              "collines_quarters": ["Bitambwe", "Caga", "Kididiri", "Kigufi", "Mihigo", "Muremera", "Mutumba", "Muyogoro", "Nyange", "Rubari", "Rugori", "Rwanyege"]
+            },
+            {
+              "name": "Buye",
+              "collines_quarters": ["Buye", "Hayiro", "Muremera", "Mushitsi", "Nyarugunda", "Nzove"]
+            },
+            {
+              "name": "Gatsinda",
+              "collines_quarters": ["Buhanda", "Buziragahama", "Gatsinda", "Gitundwe", "Kayanza", "Kibindi", "Murama", "Rukurazo", "Rwarangabo", "Sabanerwa"]
+            },
+            {
+              "name": "Makaba",
+              "collines_quarters": ["Gihoma", "Kivuzo", "Makaba", "Nkero", "Rwahirwa"]
+            },
+            {
+              "name": "Mivo",
+              "collines_quarters": ["Cigumije", "Gasebeyi", "Gitwenzi", "Hina", "Kambati", "Kiruri", "Mirango", "Mivo", "Mwungere"]
+            },
+            {
+              "name": "Mubuga",
+              "collines_quarters": ["Bwiza", "Gahengeri", "Kavumu", "Kayogoro", "Mubuga", "Nyaruntana", "Sare", "Shango"]
+            },
+            {
+              "name": "Mugomera",
+              "collines_quarters": ["Burima", "Kimenyi", "Mugomera", "Ntaho", "Nyabihanga", "Nyanza", "Ruhongore"]
+            },
+            {
+              "name": "Mwumba",
+              "collines_quarters": ["Bugorora", "Gakenke", "Gihama", "Gitasi", "Kabasazi", "Kagozi", "Karungura", "Ntembe"]
+            },
+            {
+              "name": "Ngozi",
+              "collines_quarters": ["Quartier Camugani", "Quartier Gabiro", "Quartier Gisagara", "Quartier Kanyami", "Quartier Kinyami", "Quartier Muremera", "Quartier Rubuye", "Quartier Rusuguti", "Quartier Shikiro"]
+            },
+            {
+              "name": "Rukeco",
+              "collines_quarters": ["Gatika", "Kavumu", "Kimagara", "Mpondogoto", "Murambi", "Nyabizinu", "Rumbaga"]
+            },
+            {
+              "name": "Rwabiriro",
+              "collines_quarters": ["Burenza", "Butaganda", "Cahi", "Kabataha", "Rwabiriro"]
+            }
+          ]
+        },
+        {
+          "name": "Tangara",
+          "zones": [
+            {
+              "name": "Gasezerwa",
+              "collines_quarters": ["Cumba", "Gitaramuka", "Mwika", "Nkanda", "Nyankurazo", "Nyarugati"]
+            },
+            {
+              "name": "Gashikanwa",
+              "collines_quarters": ["Cihonda", "Gashikanwa", "Kivumu", "Maruri", "Nini", "Rwizingwe"]
+            },
+            {
+              "name": "Gatobo",
+              "collines_quarters": ["Buhoro", "Butaganda", "Gitanga", "Musumba", "Ruhengeri", "Sigi"]
+            },
+            {
+              "name": "Kabuye",
+              "collines_quarters": ["Buganuka", "Kabuye", "Mubira", "Mukoni", "Mutobo", "Nyakibingo", "Nyamugari", "Rimiro", "Ruyaga"]
+            },
+            {
+              "name": "Kananira",
+              "collines_quarters": ["Kamira", "Kananira", "Muramba", "Rugabo", "Runini", "Ruyogoro"]
+            },
+            {
+              "name": "Mubanga",
+              "collines_quarters": ["Gitwenzi", "Kimerejana", "Mihigo", "Mubanga", "Muhama", "Ntiba"]
+            },
+            {
+              "name": "Musenyi",
+              "collines_quarters": ["Bomba", "Gitwa", "Mafu", "Mirango", "Mugirampeke", "Musakazi", "Musenyi", "Nyagasebeyi", "Rushoka", "Ruyaga"]
+            },
+            {
+              "name": "Ngoma",
+              "collines_quarters": ["Butaha", "Gatukuza", "Kabamba", "Ngoma", "Rutanga"]
+            },
+            {
+              "name": "Nyagatovu",
+              "collines_quarters": ["Butezi", "Gikingo", "Kibande", "Mashitsi", "Nyagatovu", "Rukongwa"]
+            },
+            {
+              "name": "Remera",
+              "collines_quarters": ["Gatare", "Mafuro", "Remera", "Rusengo", "Rutambwe", "Sabunda"]
+            },
+            {
+              "name": "Ruhororo",
+              "collines_quarters": ["Bucamihigo", "Buniha", "Cagura", "Gitamo", "Gitanga", "Gitaramuka", "Kagoma", "Kinyami", "Rwamiko"]
+            },
+            {
+              "name": "Taba",
+              "collines_quarters": ["Banda", "Giturwe", "Kobero", "Nkoto", "Nyarunazi", "Nyinya", "Ryarunyinya"]
+            },
+            {
+              "name": "Tangara",
+              "collines_quarters": ["Bwitoyi", "Gasekanya", "Gisura", "Kigomero", "Kiruhura", "Mbasi", "Myando", "Ngendo", "Nyakabanda"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GITEGA",
+      "capital": "Gitega",
+      "communes": [
+        {
+          "name": "Bugendana",
+          "zones": [
+            {
+              "name": "Bitare",
+              "collines_quarters": ["Bitare", "Carire", "Gaterama", "Gitongo", "Kibasi", "Kibungo", "Runyeri"]
+            },
+            {
+              "name": "Bugendana",
+              "collines_quarters": ["Cishwa", "Jenda", "Mugitega", "Mukoro", "Mwurire", "Nkanda", "Rwingiri"]
+            },
+            {
+              "name": "Gitongo",
+              "collines_quarters": ["Gitongo", "Masango", "Muririmbo", "Muyange", "Muzenga", "Mwumba", "Nkongwe"]
+            },
+            {
+              "name": "Mugera",
+              "collines_quarters": ["Gitora", "Mirama", "Nyamagana", "Rushanga"]
+            },
+            {
+              "name": "Mutaho",
+              "collines_quarters": ["Bigera", "Mushikanwa", "Mutaho", "Nyabisaka", "Nyangungu", "Quartier Bigera", "Quartier Kigwati"]
+            },
+            {
+              "name": "Mutoyi",
+              "collines_quarters": ["Mutoyi", "Kivuvu", "Nyagisenyi", "Nyakeru"]
+            },
+            {
+              "name": "Rwisabi",
+              "collines_quarters": ["Gerangabo", "Kidasha", "Kinyinya", "Kivoga", "Ngoma", "Nzove", "Rurengera"]
+            }
+          ]
+        },
+        {
+          "name": "Gishubi",
+          "zones": [
+            {
+              "name": "Bukirasazi",
+              "collines_quarters": ["Bukirasazi", "Migano", "Mpingwe", "Nyambuye", "Rugoma", "Rwinyana", "Shaya"]
+            },
+            {
+              "name": "Bukoro",
+              "collines_quarters": ["Bihomvora", "Bikingi", "Bukoro", "Jurwe", "Masare", "Muhororo"]
+            },
+            {
+              "name": "Buraza",
+              "collines_quarters": ["Bubaji", "Buraza", "Buriza", "Gicumbi", "Kabumbe", "Musebeyi", "Ndava"]
+            },
+            {
+              "name": "Butezi",
+              "collines_quarters": ["Butemba", "Butezi", "Muyange", "Ndago"]
+            },
+            {
+              "name": "Gishubi",
+              "collines_quarters": ["Bukwavu", "Gishubi", "Mugozi", "Muhuzu", "Munyinya", "Nyakigina", "Remera", "Ruhande"]
+            },
+            {
+              "name": "Kavumu",
+              "collines_quarters": ["Kibagara", "Kibaya", "Kinyonzo", "Mahonda", "Murama", "Nyakarambo", "Nyamugari"]
+            },
+            {
+              "name": "Kibere",
+              "collines_quarters": ["Bunyuka", "Kibere", "Nyamisure", "Rugabano", "Rukoki"]
+            },
+            {
+              "name": "Kibuye",
+              "collines_quarters": ["Buhanda", "Gasongati", "Kibuye", "Ruhinda", "Ruvumu", "Tema"]
+            },
+            {
+              "name": "Mahonda",
+              "collines_quarters": ["Bibate", "Bugega", "Gisura", "Gitaramuka", "Mahonda", "Maza", "Mugano", "Rweza"]
+            },
+            {
+              "name": "Mugaruro",
+              "collines_quarters": ["Bucana", "Gatare", "Gatoze", "Kejari", "Mikore", "Mugaruro", "Muhagaze", "Mujejuru", "Rukiga", "Rwitamba"]
+            },
+            {
+              "name": "Murambi",
+              "collines_quarters": ["Gahembe", "Gatwaro", "Gitaramuka", "Murambi"]
+            },
+            {
+              "name": "Nyabiraba",
+              "collines_quarters": ["Cimba", "Kayogoro", "Murangara", "Murehe", "Ntunda", "Nyamutobo", "Yanza"]
+            },
+            {
+              "name": "Nyabitanga",
+              "collines_quarters": ["Gikuka", "Kigomera", "Kigufi", "Musenga", "Ndago", "Nyakazi", "Nyamirama", "Nyamugari", "Rurimbi"]
+            },
+            {
+              "name": "Nyarusange",
+              "collines_quarters": ["Biziya", "Gasenyi", "Kabimba", "Kigara", "Muzima", "Nyarubenga", "Tye"]
+            },
+            {
+              "name": "Ryansoro",
+              "collines_quarters": ["Mirango", "Murenge", "Ngaruzwa", "Ntunda", "Nyentambwe", "Rusaga"]
+            }
+          ]
+        },
+        {
+          "name": "Gitega",
+          "zones": [
+            {
+              "name": "Buhevyi",
+              "collines_quarters": ["Buhoro", "Kagoma", "Kanyonga", "Rukobe", "Rutegama"]
+            },
+            {
+              "name": "Buhinda",
+              "collines_quarters": ["Buhinda", "Gihamagara", "Kibogoye", "Kirambi", "Kiremba", "Kugitega", "Mugomera", "Peniyere", "Ruhanza"]
+            },
+            {
+              "name": "Giheta",
+              "collines_quarters": ["Bihororo", "Gisuru", "Kibogoye", "Kiremera", "Korane", "Muremera", "Ruhanza", "Rutegama"]
+            },
+            {
+              "name": "Itaba",
+              "collines_quarters": ["Butare", "Gisikara", "Itaba", "Kanyinya", "Karemba", "Kinyaruko", "Macu", "Mutanga", "Nkima"]
+            },
+            {
+              "name": "Kabanga",
+              "collines_quarters": ["Gihehe", "Gihuga", "Kaguhu", "Kibimba", "Murayi", "Musama", "Muyange", "Nyamugari", "Rweru"]
+            },
+            {
+              "name": "Kiriba",
+              "collines_quarters": ["Gasunu", "Gisarara", "Gishuha", "Kamonyi", "Kibande", "Kiriba", "Masasu", "Rubarasi", "Rwingiri"]
+            },
+            {
+              "name": "Makebuko",
+              "collines_quarters": ["Bugumbasha", "Gasasa", "Kagege", "Makebuko", "Mavuvu", "Ngundu", "Ntita", "Rwanda", "Rwesero"]
+            },
+            {
+              "name": "Maramvya",
+              "collines_quarters": ["Buga", "Janja", "Karoba", "Kiyange", "Murago", "Musave", "Muyange", "Rusagara", "Rwezamenyo", "Simba"]
+            },
+            {
+              "name": "Mariza",
+              "collines_quarters": ["Bukinga", "Kanyinya", "Mitimire", "Mubuga", "Nyarunazi"]
+            },
+            {
+              "name": "Mubuga",
+              "collines_quarters": ["Bukwazo", "Karenda", "Kimanama", "Mirama", "Mubuga", "Mukanda", "Murirwe", "Ngobeke"]
+            },
+            {
+              "name": "Mungwa",
+              "collines_quarters": ["Bihanga", "Kibiri", "Rutoke", "Rweza", "Quartier Butamuheba", "Quartier Jimbi", "Quartier Karera", "Quartier Mugoboka", "Quartier Mungwa", "Quartier Ntobwe"]
+            },
+            {
+              "name": "Murenda",
+              "collines_quarters": ["Butobwe", "Gasagara", "Gasenyi", "Muhororo", "Murenda", "Mwanzari", "Mwumba", "Nyamagandika", "Rutanganika"]
+            },
+            {
+              "name": "Nyamugari",
+              "collines_quarters": ["Quartier Bwoga", "Quartier Magarama", "Quartier Musave", "Quartier Mushasha", "Quartier Musinzira", "Quartier Nyabisindu", "Quartier Nyabututsi", "Quartier Nyamugari", "Quartier Rango", "Quartier Shatanya", "Quartier Yoba"]
+            },
+            {
+              "name": "Rutegama",
+              "collines_quarters": ["Higiro", "Gitamo", "Nyakibingo", "Quartier Birohe", "Quartier Ceru", "Quartier Mahonda", "Quartier Mugutu", "Quartier Rubarasi", "Quartier Rukoba", "Quartier Rutegama", "Quartier Songa", "Quartier Zege", "Rubamvyi"]
+            }
+          ]
+        },
+        {
+          "name": "Karusi",
+          "zones": [
+            {
+              "name": "Bugenyuzi",
+              "collines_quarters": ["Bugenyuzi", "Canzikiro", "Cuba", "Gashanga", "Kanazi", "Kigufi", "Kiranda", "Muramba", "Muyange", "Nyagoba"]
+            },
+            {
+              "name": "Buhiga",
+              "collines_quarters": ["Buhiga", "Gitanga", "Karunyinya", "Magamba", "Mwoya", "Nzibariba", "Ramvya", "Ruvumu", "Rwingoma"]
+            },
+            {
+              "name": "Buhindye",
+              "collines_quarters": ["Buhindye", "Gishikanwa", "Kidahwe", "Nyamirambo", "Rwandagaro", "Teme"]
+            },
+            {
+              "name": "Buhinyuza",
+              "collines_quarters": ["Buhinyuza", "Bushirambeho", "Gisenyi", "Kanyange", "Nkoronko", "Rutegama"]
+            },
+            {
+              "name": "Cirambo",
+              "collines_quarters": ["Cirambo", "Kinyota", "Kiyange", "Maramvya", "Rusagara", "Rwizingwe"]
+            },
+            {
+              "name": "Gisimbawaga",
+              "collines_quarters": ["Butaha", "Gasera", "Gisimbawaga", "Kibuye", "Mutara"]
+            },
+            {
+              "name": "Gitaramuka",
+              "collines_quarters": ["Gasasa", "Gitaramuka", "Kagwa", "Kibenga", "Nyarutovu", "Rubuga"]
+            },
+            {
+              "name": "Kibumbwe",
+              "collines_quarters": ["Gasekanya", "Kibumbwe", "Mugende", "Muvumu", "Nyakabugu"]
+            },
+            {
+              "name": "Mayenzi",
+              "collines_quarters": ["burenza", "Cigati", "Gasenyi", "Karamba", "Rudaraza", "Rutonganikwa", "Ruyaga", "Shanga"]
+            },
+            {
+              "name": "Mubaragaza",
+              "collines_quarters": ["Kigoma", "Mubaragaza", "Musenga", "Sagara", "Yagizo"]
+            },
+            {
+              "name": "Muhweza",
+              "collines_quarters": ["Banda", "Kajeri", "Karuri", "Muhweza", "Nyamabega", "Rukamba"]
+            },
+            {
+              "name": "Mutumba",
+              "collines_quarters": ["Bibara", "Kanyinya", "Rabiro", "Rwangara"]
+            },
+            {
+              "name": "Ntunda",
+              "collines_quarters": ["Bikinga", "Bugwana", "Kigozi", "Ngayane", "Ntunda"]
+            },
+            {
+              "name": "Nyamugari",
+              "collines_quarters": ["Quartier Kigoma", "Quartier Kigwati", "Quartier Nyamugari", "Quartier Rubimba"]
+            },
+            {
+              "name": "Nyaruhinda",
+              "collines_quarters": ["Gahahe", "Gahashi", "Gitandu", "Nyaruhinda", "Ruhata"]
+            },
+            {
+              "name": "Rugazi",
+              "collines_quarters": ["Bonero", "Burenza", "Mubaya", "Munyanira", "Rugazi", "Rusengo", "Tambi"]
+            }
+          ]
+        },
+        {
+          "name": "Kiganda",
+          "zones": [
+            {
+              "name": "Buhangura",
+              "collines_quarters": ["Buhangura", "Burenza", "Janga", "Masama", "Mubuga", "Rugari"]
+            },
+            {
+              "name": "Gasura",
+              "collines_quarters": ["Gasenyi", "Kabuye", "Kigabiro", "Murehe", "Nete", "Taba"]
+            },
+            {
+              "name": "Gatabo",
+              "collines_quarters": ["Kivyeyi", "Martyazo", "Murambi", "Nyagisozi", "Quartier Gatabo"]
+            },
+            {
+              "name": "Kanyami",
+              "collines_quarters": ["Gahweza", "Kanyami", "Musongati", "Ngara"]
+            },
+            {
+              "name": "Kiganda",
+              "collines_quarters": ["Burenza", "Kanerwa", "Kiganda", "Nkomwe"]
+            },
+            {
+              "name": "Mushikamo",
+              "collines_quarters": ["Bupfunda", "Munyinya", "Murinzi", "Musave", "Mushikamo", "Nkonyovu", "Nyakararo", "Nyamitwenzi"]
+            },
+            {
+              "name": "Renga",
+              "collines_quarters": ["Kayange", "Renga", "Rubumba", "Ruvumu"]
+            },
+            {
+              "name": "Rutegama",
+              "collines_quarters": ["Bubanda", "Camumandu", "Cumba", "Gashingwa", "Kinyoni", "Marumane", "Munanira", "Nyarukere", "Nyarunazi", "Rutegama", "Quartier Buryohe", "Quartier Gasange"]
+            }
+          ]
+        },
+        {
+          "name": "Muramvya",
+          "zones": [
+            {
+              "name": "Bugarama",
+              "collines_quarters": ["Busimba", "Kibogoye", "Mpehe", "Quartier Bugarama"]
+            },
+            {
+              "name": "Bukeye",
+              "collines_quarters": ["Gahaga", "Gikonge", "Kivogero", "Rweteto", "Shumba"]
+            },
+            {
+              "name": "Kibumbu",
+              "collines_quarters": ["Birwana", "Buyaga", "Kirika", "Rabiro", "Quartier Kibumbu"]
+            },
+            {
+              "name": "Mbuye",
+              "collines_quarters": ["Kigina", "Kirembera", "Kiziba", "Mbuye", "Migezi", "Mugerera", "Murama", "Mwegera", "Nyakijwira", "Rwuya", "Teka", "Temere"]
+            },
+            {
+              "name": "Muramvya",
+              "collines_quarters": ["Biganda", "Burambana", "Masango", "Murambi", "Muramvya", "Musagara", "Quartier Mubarazi", "Quartier Muramvya"]
+            },
+            {
+              "name": "Nyarucamo",
+              "collines_quarters": ["Buhorwa", "Gaharo", "Kiziguro", "Musumba", "Nyarucamo"]
+            },
+            {
+              "name": "Shombo",
+              "collines_quarters": ["Gatwaro", "Mirinzi", "Mubira", "Remera", "Ruhinga", "Shombo"]
+            }
+          ]
+        },
+        {
+          "name": "Mwaro",
+          "zones": [
+            {
+              "name": "Bisoro",
+              "collines_quarters": ["Buburu", "Gitaramuka", "Kiganda", "Mabaya", "Musumba"]
+            },
+            {
+              "name": "Gatwe",
+              "collines_quarters": ["Bwakira", "Kanyami", "Mago", "Maramvya", "Nyagitongati", "Nyamugari", "Rwuya"]
+            },
+            {
+              "name": "Gisozi",
+              "collines_quarters": ["Buburu", "Gisozi", "Kibimba", "Musivya", "Ndava", "Nyamiyaga", "Rweza", "Quartier Nyarukinya", "Quartier Ruyange"]
+            },
+            {
+              "name": "Kanka",
+              "collines_quarters": ["Buhabwa", "Kanka", "Kariba", "Masango", "Nyabisiga", "Rubamvye"]
+            },
+            {
+              "name": "Kayokwe",
+              "collines_quarters": ["Benja", "Kibogoye", "Musama", "Ruramba", "Rusivya", "Ruvumu", "Saswe"]
+            },
+            {
+              "name": "Makamba",
+              "collines_quarters": ["Gasenyi", "Kirambi", "Makamba", "Nyamiyaga", "Nyamurenge", "Rwintare"]
+            },
+            {
+              "name": "Muyebe",
+              "collines_quarters": ["Bisoro", "Gitunga", "Migende", "Murehe", "Muyebe", "Nyakibari", "Rwankangoma"]
+            },
+            {
+              "name": "Mwaro",
+              "collines_quarters": ["Bisha", "Gatare", "Gihinga", "Kizi", "Ngara", "Nkundusi", "Rurtyazo", "Quartier Gasumo", "Quartier Kagoma", "Quartier Ruvumera"]
+            },
+            {
+              "name": "Nyakararo",
+              "collines_quarters": ["Butegana", "Kiyange", "Mugero", "Musimbwe", "Nyagahwabare", "Nyakirwa"]
+            },
+            {
+              "name": "Rorero",
+              "collines_quarters": ["Kirika", "Kivoga", "Mashunzi", "Munanira"]
+            }
+          ]
+        },
+        {
+          "name": "Nyabihanga",
+          "zones": [
+            {
+              "name": "Fota",
+              "collines_quarters": ["Fota", "Gahondo", "Gatsinga", "Kigarama", "Ngorore"]
+            },
+            {
+              "name": "Kibungere",
+              "collines_quarters": ["Buhogo", "Kavumu", "Kibungere", "Martyazo", "Musongati", "Muyebe"]
+            },
+            {
+              "name": "Matongo",
+              "collines_quarters": ["Kamushiha", "Matongo", "Ngoro", "Nyabisaka", "Nyamurenge"]
+            },
+            {
+              "name": "Mbogora",
+              "collines_quarters": ["Butegeye", "Gihoma", "Kivomwa", "Mbogora", "Migera", "Muhaganya", "Muyange", "Nyarubayi"]
+            },
+            {
+              "name": "Munago",
+              "collines_quarters": ["Gitaramuka", "Kibogoye", "Kibungo", "Magamba", "Munago", "Nyamitore"]
+            },
+            {
+              "name": "Murago",
+              "collines_quarters": ["Bugera", "Higiro", "Kabogi", "Murago", "Rango"]
+            },
+            {
+              "name": "Musama",
+              "collines_quarters": ["Gisirtye", "Iteka", "Kirambi", "Musama", "Nyamibanga"]
+            },
+            {
+              "name": "Ndava",
+              "collines_quarters": ["Butazi", "Gitaba", "Mpanuka", "Muyogoro", "Ndava"]
+            },
+            {
+              "name": "Nyabihanga",
+              "collines_quarters": ["Gatwe", "Kivuzo", "Miterama", "Mubuga", "Murama", "Taba"]
+            },
+            {
+              "name": "Nyarucamo",
+              "collines_quarters": ["Bugorora", "Bunyange", "Kiga", "Nkurunzi", "Nyamigogo"]
+            },
+            {
+              "name": "Rusaka",
+              "collines_quarters": ["Gikebuka", "Kibimba", "Kiyege", "Martyazo", "Mpumbu", "Mureba", "Nyagashanga", "Nyamugari", "Rusaka", "Shana", "Quartier Gasekebuye", "Quartier Gihini"]
+            },
+            {
+              "name": "Yanza",
+              "collines_quarters": ["Kinyovu", "Mahonda", "Murambi", "Namande", "Rucunda"]
+            }
+          ]
+        },
+        {
+          "name": "Shombo",
+          "zones": [
+            {
+              "name": "Gatonde",
+              "collines_quarters": ["Gatonde", "Gitibu", "Mazita", "Nyenzi", "Ruvumu", "Taba"]
+            },
+            {
+              "name": "Gihogazi",
+              "collines_quarters": ["Bikinga", "Gihogazi", "Kibezi", "Mugero", "Murago", "Ramba"]
+            },
+            {
+              "name": "Gikombe",
+              "collines_quarters": ["Butwe", "Gaharo", "Gikombe"]
+            },
+            {
+              "name": "Masabo",
+              "collines_quarters": ["Kabwira", "Mugoboka", "Ruharo", "Rusasa", "Ruyogoro", "Rwimbogo"]
+            },
+            {
+              "name": "Masama",
+              "collines_quarters": ["Butamenwa", "Masama", "Rugwiza", "Ruhuma", "Rwinka"]
+            },
+            {
+              "name": "Mugogo",
+              "collines_quarters": ["Kizingoma", "Mugogo", "Ruvumu", "Ruyaga", "Taba"]
+            },
+            {
+              "name": "Munanira",
+              "collines_quarters": ["Gahororo", "Kivoga", "Munanira", "Mushikanwa", "Ruganira", "Rutegama"]
+            },
+            {
+              "name": "Nyabibuye",
+              "collines_quarters": ["Bukirasazi", "Gatabo", "Gitaramuka", "Kiryama", "Nyabibuye"]
+            },
+            {
+              "name": "Nyabikere",
+              "collines_quarters": ["Maramvya", "Mbabazi", "Mubanga", "Ngugu", "Nyarunazi", "Ruyogoro", "Rwandagaro", "Quartier Gatamba"]
+            },
+            {
+              "name": "Nyarurambi",
+              "collines_quarters": ["Kigora", "Kiyange", "Muhigo", "Muhororo"]
+            },
+            {
+              "name": "Rusamaza",
+              "collines_quarters": ["Bihembe", "Gasenyi", "Gasivya", "Muzenga", "Nyamiyaga", "Rusamaza"]
+            },
+            {
+              "name": "Rusi",
+              "collines_quarters": ["Kivoga", "Mujenjwa", "Rusi", "Shombo"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
